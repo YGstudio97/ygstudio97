@@ -1,8 +1,14 @@
-<img width="844" height="140" alt="file" src="https://github.com/user-attachments/assets/edda2359-112a-4421-9f85-f5a9dd2b3c51" />
 <div align="center">
 
   <!-- Futuristic Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,46,58&height=220&section=header&text=YGstudio97&fontSize=80&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
+
+  <br /><br />
+
+  <!-- Custom Banner Image -->
+  <img src="https://github.com/user-attachments/assets/edda2359-112a-4421-9f85-f5a9dd2b3c51" width="100%" alt="YGstudio97 Banner" />
+
+  <br /><br />
 
   <!-- Animated Greeting & Profile Views -->
   <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm YGstudio97</h1>
