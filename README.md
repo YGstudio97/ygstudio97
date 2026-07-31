@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- TOP CUSTOM BANNER (Replace src URL with your image link) -->
+  <!-- TOP CUSTOM BANNER -->
   <img src="https://github.com/user-attachments/assets/edda2359-112a-4421-9f85-f5a9dd2b3c51" width="100%" alt="Top Custom Banner" />
 
   <br /><br />
@@ -111,8 +111,7 @@
   <!-- Activity Graph -->
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ygstudio97&theme=vue&radius=10" alt="ygstudio97's Activity Graph" />
   <br /><br />
-  <!-- Live Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YGstudio97&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="175" alt="YGstudio97 Stats" />
+  <!-- Top Languages Card -->
   <a href="https://github.com/ygstudio97">
     <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ygstudio97&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
   </a>
@@ -120,24 +119,26 @@
 
 ---
 
-### 🐍 Contribution Activity Graph
-
-<div align="center">
-  <!-- Animated Contribution Grid Snake -->
-  <img src="https://raw.githubusercontent.com/YGstudio97/YGstudio97/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
----
-
-### 🔗 Connect with Me
+### 🌐 Social Medias
 
 <p align="center">
-  <a href="mailto:ygstudio97@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="YGstudio97's Email"/></a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
+  <a href="https://www.youtube.com/@YGstudio97" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com/ygstudio97" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/ygstudio97" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/ygstudio97" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://facebook.com/ygstudio97" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://x.com/ygstudio97" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
