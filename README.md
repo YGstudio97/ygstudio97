@@ -1,21 +1,16 @@
 <div align="center">
 
-  <!-- TOP CUSTOM BANNER (Replace the src link below with your image URL) -->
-  <img src="YOUR_TOP_BANNER_IMAGE_URL_HERE" width="100%" alt="Top Custom Banner" />
+  <!-- TOP CUSTOM BANNER (Replace src URL with your image link) -->
+  <img src="https://github.com/user-attachments/assets/edda2359-112a-4421-9f85-f5a9dd2b3c51" width="100%" alt="Top Custom Banner" />
 
   <br /><br />
 
-  <!-- Animated Typing Greeting Header -->
+  <!-- Animated Typing Greeting Header (Below Banner) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Hey+I'm+Yusuf+%F0%9F%91%8B" alt="Animated Greeting" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&height=70&lines=Hey%2C+I'm+it's+Yusuf+%F0%9F%91%8B" alt="Animated Greeting" />
   </a>
 
   <br />
-
-  <!-- Secondary Custom Banner Image -->
-  <img src="https://github.com/user-attachments/assets/edda2359-112a-4421-9f85-f5a9dd2b3c51" width="100%" alt="YGstudio97 Banner" />
-
-  <br /><br />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
