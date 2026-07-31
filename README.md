@@ -1,6 +1,9 @@
 <div align="center">
 
-  <br />
+  <!-- TOP CUSTOM BANNER (Replace the src link below with your image URL) -->
+  <img src="YOUR_TOP_BANNER_IMAGE_URL_HERE" width="100%" alt="Top Custom Banner" />
+
+  <br /><br />
 
   <!-- Animated Typing Greeting Header -->
   <a href="https://git.io/typing-svg">
@@ -9,17 +12,10 @@
 
   <br />
 
-  <!-- Custom Banner Image -->
+  <!-- Secondary Custom Banner Image -->
   <img src="https://github.com/user-attachments/assets/edda2359-112a-4421-9f85-f5a9dd2b3c51" width="100%" alt="YGstudio97 Banner" />
 
   <br /><br />
-
-  <!-- Profile Views Counter -->
-  <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=ygstudio97">
-      <img src="https://komarev.com/ghpvc/?username=ygstudio97&label=Profile%20views&color=00FFFF&style=flat-square" alt="ygstudio97's profile views" />
-    </a>
-  </p>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
