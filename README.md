@@ -116,8 +116,6 @@
   <a href="https://github.com/ygstudio97">
     <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ygstudio97&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
   </a>
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YGstudio97&theme=synthwave&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
 ---
