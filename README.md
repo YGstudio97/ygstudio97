@@ -5,13 +5,13 @@
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Game+Developer+%26+UI%2FUX+Designer;Building+Interactive+%26+2D+Simulations;Python+%7C+JavaScript+%7C+Minecraft+Customs;Welcome+to+my+digital+workspace!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Game+Developer+%26+UI%2FUX+Designer;Creator+of+AetherionEngine;Building+TON618+AI;Welcome+to+my+digital+workspace!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <!-- Animated Badges & Status -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Game_Design_%26_Web-7B2CBF?style=for-the-badge&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-00B4D8?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Game_Engines_%26_AI-7B2CBF?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Building_AetherionEngine-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Theme-Cyberpunk_Dark-9D4EDD?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </p>
 
@@ -47,7 +47,7 @@
 ### ⚙️ Frameworks, Libraries & Technologies
 
 <div align="center">
-  <!-- Top Framework Icons for the requested languages -->
+  <!-- Top Framework Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,threejs,dotnet,unity&perline=10" alt="Frameworks" />
   </a>
@@ -75,19 +75,19 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>🌱 2D Garden Simulator</h3>
-        <p>Interactive simulation game featuring farming mechanics, dynamic shop economies, and UI systems.</p>
+        <h3>⚡ <a href="https://github.com/YGstudio97/AetherionEngine">AetherionEngine</a></h3>
+        <p>A powerful, lightweight custom engine architecture built for high-performance interactive experiences and core mechanics.</p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Game_Design-purple?style=flat-square" />
+          <a href="https://github.com/YGstudio97/AetherionEngine">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
         </p>
       </td>
       <td width="50%" align="center">
-        <h3>🕹️ Custom Gaming Assets</h3>
-        <p>Atmospheric UI themes, custom texture work, and interactive web elements.</p>
+        <h3>🌌 TON618 AI <sub style="color: #00B4D8;">[In Development]</sub></h3>
+        <p>An ambitious, cosmic-scale AI project focused on next-gen intelligence models and advanced system interactions.</p>
         <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=flat-square" />
+          <img src="https://img.shields.io/badge/Status-Future_Project-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" />
         </p>
       </td>
     </tr>
