@@ -3,9 +3,18 @@
   <!-- Futuristic Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,46,58&height=220&section=header&text=YGstudio97&fontSize=80&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing Text (Fixed Clearance) -->
+  <!-- Animated Greeting & Profile Views -->
+  <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm YGstudio97</h1>
+
+  <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=ygstudio97">
+      <img src="https://komarev.com/ghpvc/?username=ygstudio97&label=Profile%20views&color=00FFFF&style=flat-square" alt="ygstudio97's profile views" />
+    </a>
+  </p>
+
+  <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&height=60&lines=Welcome+to+YGstudio97+workspace!+%F0%9F%9A%80;Game+Developer+%26+UI%2FUX+Designer;Creator+of+AetherionEngine;Building+TON618+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&height=60&lines=Welcome+to+my+digital+workspace!+%F0%9F%9A%80;Game+Developer+%26+UI%2FUX+Designer;Creator+of+AetherionEngine;Building+TON618+AI" alt="Typing SVG" />
   </a>
 
   <!-- Animated Badges & Status -->
@@ -96,12 +105,17 @@
 
 ---
 
-### 📈 GitHub Stats & Metrics
+### 📊 GitHub Stats & Activity Graph
 
 <div align="center">
-  <br />
+  <!-- Activity Graph -->
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ygstudio97&theme=vue&radius=10" alt="ygstudio97's Activity Graph" />
+  <br /><br />
+  <!-- Live Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=YGstudio97&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="175" alt="YGstudio97 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YGstudio97&layout=compact&theme=synthwave&hide_border=true" height="175" alt="Top Languages" />
+  <a href="https://github.com/ygstudio97">
+    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ygstudio97&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
+  </a>
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YGstudio97&theme=synthwave&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
@@ -114,6 +128,20 @@
   <!-- Animated Contribution Grid Snake -->
   <img src="https://raw.githubusercontent.com/YGstudio97/YGstudio97/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:ygstudio97@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="YGstudio97's Email"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
+  </a>
+</p>
 
 ---
 
