@@ -1,25 +1,27 @@
 <div align="center">
 
-  <!-- Futuristic Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,46,58&height=220&section=header&text=YGstudio97&fontSize=80&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
+  <br />
 
-  <br /><br />
+  <!-- Animated Typing Greeting Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Hey+I'm+Yusuf+%F0%9F%91%8B" alt="Animated Greeting" />
+  </a>
+
+  <br />
 
   <!-- Custom Banner Image -->
   <img src="https://github.com/user-attachments/assets/edda2359-112a-4421-9f85-f5a9dd2b3c51" width="100%" alt="YGstudio97 Banner" />
 
   <br /><br />
 
-  <!-- Animated Greeting & Profile Views -->
-  <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm YGstudio97</h1>
-
+  <!-- Profile Views Counter -->
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=ygstudio97">
       <img src="https://komarev.com/ghpvc/?username=ygstudio97&label=Profile%20views&color=00FFFF&style=flat-square" alt="ygstudio97's profile views" />
     </a>
   </p>
 
-  <!-- Animated Typing Text -->
+  <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&height=60&lines=Welcome+to+my+digital+workspace!+%F0%9F%9A%80;Game+Developer+%26+UI%2FUX+Designer;Creator+of+AetherionEngine;Building+TON618+AI" alt="Typing SVG" />
   </a>
