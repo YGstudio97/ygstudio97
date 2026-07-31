@@ -3,9 +3,9 @@
   <!-- Futuristic Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,46,58&height=220&section=header&text=YGstudio97&fontSize=80&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing Text -->
+  <!-- Animated Typing Text (Fixed Clearance) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Game+Developer+%26+UI%2FUX+Designer;Creator+of+AetherionEngine;Building+TON618+AI;Welcome+to+my+digital+workspace!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&height=60&lines=Welcome+to+my+digital+workspace!+%F0%9F%9A%80;Game+Developer+%26+UI%2FUX+Designer;Creator+of+AetherionEngine;Building+TON618+AI" alt="Typing SVG" />
   </a>
 
   <!-- Animated Badges & Status -->
@@ -118,7 +118,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=58,46,35,24,12&height=100&section=footer" width="100%" />
-  
+  <br />
   <sub>✨ Designed & Developed by <b>YGstudio97</b> ✨</sub>
 </div>
